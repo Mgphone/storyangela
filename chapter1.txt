@@ -1,2 +1,7 @@
 hello this is mg phone wring something
+<<<<<<< HEAD
 there is an alien at home
+=======
+after there is so many branches
+>>>>>>> alien-plot
+interesting
